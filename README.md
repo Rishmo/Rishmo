@@ -24,9 +24,16 @@ I'm a Full Stack Developer with a passion for continuous learning and building c
 ---
 
 ### 📚 Featured Projects:
-- [React Projects](https://github.com/Rishmo/React)
-- [JavaScript Programs](https://github.com/Rishmo/JavaScript-Programs)
+- [Edunify](https://github.com/Rishmo/Edunify)
+- [Restaurant Booking System](https://github.com/Rishmo/Restaurant-Booking-System)
 - [MERN E-commerce](https://github.com/Rishmo/HindustanMarket)
+- [User Authentication](https://github.com/Rishmo/User-Authentication)
+- [Shope Zone](https://github.com/Rishmo/shope_zone)
+- [Javascript Practice Projects](https://github.com/Rishmo/JavaScript-Practice-Project)
+- [HTML CSS E-commerce](https://github.com/Rishmo/ECommerce-using-HTML---CSS)
+- [Spotify Clone](https://github.com/Rishmo/Basic_Programs/tree/main/spotify_clone(HTML_CSS))
+- [Netflix Clone](https://github.com/Rishmo/Netflix_Homepage)
+- [Temperature Converter](https://github.com/Rishmo/Temperature_Converter)
 
 ---
 
