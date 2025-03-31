@@ -24,6 +24,8 @@ I'm a Full Stack Developer with a passion for continuous learning and building c
 ---
 
 ### 📚 Featured Projects:
+- [EmployWise](https://github.com/Rishmo/EmployWise_Project)
+- [Google Calendar Integration](https://github.com/Rishmo/google-calendar-integration)
 - [Edunify](https://github.com/Rishmo/Edunify)
 - [Restaurant Booking System](https://github.com/Rishmo/Restaurant-Booking-System)
 - [MERN E-commerce](https://github.com/Rishmo/HindustanMarket)
@@ -39,4 +41,4 @@ I'm a Full Stack Developer with a passion for continuous learning and building c
 
 Feel free to check out my repositories, and let's connect and collaborate!
 
-[LinkedIn](https://www.linkedin.com/in/moon-sahu-51656b261/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/moonsayidg/)
+[LinkedIn](https://www.linkedin.com/in/moon-sahu-51656b261/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/moonsayidg/) | [leetcode](https://leetcode.com/u/moonsahu08/)
