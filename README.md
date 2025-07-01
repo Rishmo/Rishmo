@@ -24,6 +24,7 @@ I'm a Full Stack Developer with a passion for continuous learning and building c
 ---
 
 ### 📚 Featured Projects:
+- [Notes_App](https://github.com/Rishmo/Notes_App)
 - [EmployWise](https://github.com/Rishmo/EmployWise_Project)
 - [Google Calendar Integration](https://github.com/Rishmo/google-calendar-integration)
 - [Edunify](https://github.com/Rishmo/Edunify)
