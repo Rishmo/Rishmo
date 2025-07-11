@@ -24,6 +24,7 @@ I'm a Full Stack Developer with a passion for continuous learning and building c
 ---
 
 ### 📚 Featured Projects:
+- [Word Locator](https://github.com/Rishmo/WordLocator)
 - [log Query System](https://github.com/Rishmo/log-query-system-fullstack)
 - [Task Manager App](https://github.com/Rishmo/Task-Manager-App)
 - [Notes_App](https://github.com/Rishmo/Notes_App)
