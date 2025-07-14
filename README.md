@@ -34,6 +34,7 @@ I'm a Full Stack Developer with a passion for continuous learning and building c
 - [Google Calendar Integration](https://github.com/Rishmo/google-calendar-integration)
 - [Edunify](https://github.com/Rishmo/Edunify)
 - [Restaurant Booking System](https://github.com/Rishmo/Restaurant-Booking-System)
+- [Digital Marketing](https://github.com/Rishmo/Digital-Marketing)
 - [MERN E-commerce](https://github.com/Rishmo/HindustanMarket)
 - [User Authentication](https://github.com/Rishmo/User-Authentication)
 - [Shope Zone](https://github.com/Rishmo/shope_zone)
