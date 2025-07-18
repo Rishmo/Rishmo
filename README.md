@@ -37,6 +37,7 @@ I'm a Full Stack Developer with a passion for continuous learning and building c
 - [Digital Marketing](https://github.com/Rishmo/Digital-Marketing)
 - [MERN E-commerce](https://github.com/Rishmo/HindustanMarket)
 - [User Authentication](https://github.com/Rishmo/User-Authentication)
+- [Book Review](https://github.com/Rishmo/Book_Review)
 - [Shope Zone](https://github.com/Rishmo/shope_zone)
 - [Javascript Practice Projects](https://github.com/Rishmo/JavaScript-Practice-Project)
 - [HTML CSS E-commerce](https://github.com/Rishmo/ECommerce-using-HTML---CSS)
